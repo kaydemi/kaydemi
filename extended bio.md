@@ -6,5 +6,5 @@ kaydemi music: `https://soundcloud.com/slurjiggy` `https://www.youtube.com/@kayd
 sleepysincat02 music: `https://www.youtube.com/@Sleepysincat``platforms soon?`
 
 - - PROJECT LIST - -
-1- BEAUTIFUL CHAOS (gdscript/python practice first game)
-2- dyethscape 4 (passion project)
+1- `BEAUTIFUL CHAOS (gdscript/python practice first game)`
+2- `dyethscape 4 (passion project)`
